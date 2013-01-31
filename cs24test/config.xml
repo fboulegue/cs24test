@@ -22,17 +22,19 @@
 <cordova>
     <preference name="KeyboardDisplayRequiresUserAction" value="true" />
     <preference name="SuppressesIncrementalRendering" value="false" />
-    <preference name="UIWebViewBounce" value="true" />
+    <preference name="UIWebViewBounce" value="false" />
     <preference name="TopActivityIndicator" value="gray" />
     <preference name="EnableLocation" value="false" />
     <preference name="EnableViewportScale" value="false" />
     <preference name="AutoHideSplashScreen" value="true" />
-    <preference name="ShowSplashScreenSpinner" value="true" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
     <preference name="MediaPlaybackRequiresUserAction" value="false" />
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="OpenAllWhitelistURLsInWebView" value="false" />
-    <preference name="BackupWebStorage" value="cloud" />
-
+    <preference name="BackupWebStorage" value="cloud" />  
+    
+    
+    
     <content src="index.html" />
 
     <plugins>
