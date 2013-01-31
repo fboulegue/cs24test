@@ -41,6 +41,17 @@
 		30A0434814DC770100060A13 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A0434314DC770100060A13 /* Localizable.strings */; };
 		30A0434914DC770100060A13 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 30A0434614DC770100060A13 /* Localizable.strings */; };
 		30E5649213A7FCAF007403D8 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30E5649113A7FCAF007403D8 /* CoreMedia.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		8A7ED41D16BAA02800444565 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED41C16BAA02800444565 /* icon.png */; };
+		8A7ED41F16BAA02C00444565 /* icon_at_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED41E16BAA02C00444565 /* icon_at_2x.png */; };
+		8A7ED42116BAA02F00444565 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42016BAA02F00444565 /* Default.png */; };
+		8A7ED42316BAA03300444565 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42216BAA03300444565 /* Default@2x.png */; };
+		8A7ED42516BAA03800444565 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42416BAA03800444565 /* Default-568h@2x.png */; };
+		8A7ED42716BAA05300444565 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42616BAA05300444565 /* icon-72.png */; };
+		8A7ED42916BAA0A900444565 /* icon_72_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42816BAA0A900444565 /* icon_72_2x.png */; };
+		8A7ED42B16BAA0FD00444565 /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42A16BAA0FD00444565 /* Default-Landscape@2x~ipad.png */; };
+		8A7ED42D16BAA10800444565 /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42C16BAA10800444565 /* Default-Landscape~ipad.png */; };
+		8A7ED42F16BAA11500444565 /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED42E16BAA11500444565 /* Default-Portrait@2x~ipad.png */; };
+		8A7ED43116BAA11A00444565 /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A7ED43016BAA11A00444565 /* Default-Portrait~ipad.png */; };
 		D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */; };
 		F840E1F1165FE0F500CFE078 /* config.xml in Resources */ = {isa = PBXBuildFile; fileRef = F840E1F0165FE0F500CFE078 /* config.xml */; };
 /* End PBXBuildFile section */
@@ -66,7 +77,7 @@
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1D6058910D05DD3D006BFB54 /* cs24test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cs24test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D6058910D05DD3D006BFB54 /* iChecklist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iChecklist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1F766FDD13BBADB100FB74C0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Localizable.strings; sourceTree = "<group>"; };
 		1F766FE013BBADB100FB74C0 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = Localizable.strings; sourceTree = "<group>"; };
@@ -101,6 +112,17 @@
 		30A0434714DC770100060A13 /* se */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = se; path = Localizable.strings; sourceTree = "<group>"; };
 		30E5649113A7FCAF007403D8 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		32CA4F630368D1EE00C91783 /* cs24test-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "cs24test-Prefix.pch"; sourceTree = "<group>"; };
+		8A7ED41C16BAA02800444565 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		8A7ED41E16BAA02C00444565 /* icon_at_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_at_2x.png; sourceTree = "<group>"; };
+		8A7ED42016BAA02F00444565 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		8A7ED42216BAA03300444565 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		8A7ED42416BAA03800444565 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8A7ED42616BAA05300444565 /* icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-72.png"; sourceTree = "<group>"; };
+		8A7ED42816BAA0A900444565 /* icon_72_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_72_2x.png; sourceTree = "<group>"; };
+		8A7ED42A16BAA0FD00444565 /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
+		8A7ED42C16BAA10800444565 /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		8A7ED42E16BAA11500444565 /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		8A7ED43016BAA11A00444565 /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* cs24test-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "cs24test-Info.plist"; path = "../cs24test-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x~iphone.png"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = cs24test/config.xml; sourceTree = "<group>"; };
@@ -148,7 +170,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* cs24test.app */,
+				1D6058910D05DD3D006BFB54 /* iChecklist.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -172,6 +194,17 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				8A7ED43016BAA11A00444565 /* Default-Portrait~ipad.png */,
+				8A7ED42E16BAA11500444565 /* Default-Portrait@2x~ipad.png */,
+				8A7ED42C16BAA10800444565 /* Default-Landscape~ipad.png */,
+				8A7ED42A16BAA0FD00444565 /* Default-Landscape@2x~ipad.png */,
+				8A7ED42816BAA0A900444565 /* icon_72_2x.png */,
+				8A7ED42616BAA05300444565 /* icon-72.png */,
+				8A7ED42416BAA03800444565 /* Default-568h@2x.png */,
+				8A7ED42216BAA03300444565 /* Default@2x.png */,
+				8A7ED42016BAA02F00444565 /* Default.png */,
+				8A7ED41E16BAA02C00444565 /* icon_at_2x.png */,
+				8A7ED41C16BAA02800444565 /* icon.png */,
 				F840E1F0165FE0F500CFE078 /* config.xml */,
 				301BF56E109A69640062928A /* www */,
 				301BF52D109A57CC0062928A /* CordovaLib.xcodeproj */,
@@ -291,9 +324,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D6058900D05DD3D006BFB54 /* cs24test */ = {
+		1D6058900D05DD3D006BFB54 /* iChecklist */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "cs24test" */;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iChecklist" */;
 			buildPhases = (
 				304B58A110DAC018002A0835 /* Touch www folder */,
 				1D60588D0D05DD3D006BFB54 /* Resources */,
@@ -305,9 +338,9 @@
 			dependencies = (
 				301BF551109A68C00062928A /* PBXTargetDependency */,
 			);
-			name = cs24test;
+			name = iChecklist;
 			productName = cs24test;
-			productReference = 1D6058910D05DD3D006BFB54 /* cs24test.app */;
+			productReference = 1D6058910D05DD3D006BFB54 /* iChecklist.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -342,7 +375,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				1D6058900D05DD3D006BFB54 /* cs24test */,
+				1D6058900D05DD3D006BFB54 /* iChecklist */,
 			);
 		};
 /* End PBXProject section */
@@ -380,6 +413,17 @@
 				3088BBC1154F3926009F9C59 /* Default@2x~iphone.png in Resources */,
 				3088BBC2154F3926009F9C59 /* Default~iphone.png in Resources */,
 				D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */,
+				8A7ED41D16BAA02800444565 /* icon.png in Resources */,
+				8A7ED41F16BAA02C00444565 /* icon_at_2x.png in Resources */,
+				8A7ED42116BAA02F00444565 /* Default.png in Resources */,
+				8A7ED42316BAA03300444565 /* Default@2x.png in Resources */,
+				8A7ED42516BAA03800444565 /* Default-568h@2x.png in Resources */,
+				8A7ED42716BAA05300444565 /* icon-72.png in Resources */,
+				8A7ED42916BAA0A900444565 /* icon_72_2x.png in Resources */,
+				8A7ED42B16BAA0FD00444565 /* Default-Landscape@2x~ipad.png in Resources */,
+				8A7ED42D16BAA10800444565 /* Default-Landscape~ipad.png in Resources */,
+				8A7ED42F16BAA11500444565 /* Default-Portrait@2x~ipad.png in Resources */,
+				8A7ED43116BAA11A00444565 /* Default-Portrait~ipad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -474,7 +518,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "cs24test/cs24test-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				PRODUCT_NAME = cs24test;
+				PRODUCT_NAME = iChecklist;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -492,7 +536,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "cs24test/cs24test-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				PRODUCT_NAME = cs24test;
+				PRODUCT_NAME = iChecklist;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -570,7 +614,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "cs24test" */ = {
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "iChecklist" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1D6058940D05DD3E006BFB54 /* Debug */,
